@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![AXII Logo](https://img.shields.io/badge/AXII-Automation-blue?style=for-the-badge)
+![AXII Logo](https://img.shields.io/badge/Project-axii-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
@@ -80,12 +80,12 @@ O AXII oferece uma plataforma integrada que:
 
 | Repositório | Descrição | Status |
 |-------------|-----------|--------|
-| [web](https://github.com/axii-automation/Project-Axii-web) | Sistema web | 🔄 Em desenvolvimento |
-| [mobile](https://github.com/axii-automation/Project-axii-mobile) | App mobile iOS/Android | 🔄 Em desenvolvimento |
-| [axii-desktop](https://github.com/axii-automation/Project-axii-desktop) | App desktop | 🔄 Em desenvolvimento |
-| [embedded](https://github.com/axii-automation/Project-axii-embedded) | codigos das Placas | 🔄 Em desenvolvimento |
-| [gateway](https://github.com/axii-automation/Project-axii-gateway) | Serviços de conexão | 🔄 Em desenvolvimento |
-| [site](https://github.com/axii-automation/Project-axii-site) | Site sobre o projeto | Informativo |
+| [web](https://github.com/Project-axii/Project-Axii-web) | Sistema web | 🔄 Em desenvolvimento |
+| [mobile](https://github.com/Project-axii/Project-axii-mobile) | App mobile iOS/Android | 🔄 Em desenvolvimento |
+| [axii-desktop](https://github.com/Project-axii/Project-axii-desktop) | App desktop | 🔄 Em desenvolvimento |
+| [embedded](https://github.com/Project-axii/Project-axii-embedded) | codigos das Placas | 🔄 Em desenvolvimento |
+| [gateway](https://github.com/Project-axii/Project-axii-gateway) | Serviços de conexão | 🔄 Em desenvolvimento |
+| [site](https://github.com/Project-axii/Project-axii-site) | Site sobre o projeto | Informativo |
 
 ---
 
